@@ -26,7 +26,7 @@ public class DuckStorage {
 	}
 	
 	//sort by name and print
-		public void sortAndPrintWholeObject() {
+		public void sortAndPrintObjects() {
 			List<String> duckNames=new ArrayList<>(); //getting names
 			for (Duck d: duckList) {
 				duckNames.add(d.getName());

@@ -16,6 +16,6 @@ public class Runner {
 		ducks.printAllDucks();
 		ducks.printMallards();
 		ducks.sortAndPrintNames();
-		ducks.sortAndPrintWholeObject();
+		ducks.sortAndPrintObjects();
 	}
 }
